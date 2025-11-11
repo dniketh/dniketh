@@ -23,7 +23,7 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
   This work bridges AI and aesthetic surgery — providing clinicians a non-invasive visualization tool for decision support.
 
 - 📈 **Crypto Price Forecasting**  
-  Developed a **LightGBM-based regression model** to predict next-day ETH/USD high prices using engineered temporal and statistical features.  
+  Developed a **LightGBM-based regression model** to predict next-day ETH/USD high prices.
   Built and deployed an end-to-end **FastAPI service** for real-time predictions, integrating dashboards for interpretability and business impact analysis.
   Check it out Here - > https://crypto-frontend.streamlit.app/
 
