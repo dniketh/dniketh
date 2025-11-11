@@ -20,7 +20,8 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
   Led development of a **GAN-based AI pipeline** capable of simulating post-rhinoplasty outcomes from pre-operative images.  
   Built a **Residual U-Net + PatchGAN** architecture to generate high-fidelity results with localized nasal edits while preserving identity and lighting.  
   Integrated post-processing **CodeFormer** to enhance realism, enabling surgeons to offer instant, data-driven previews to patients which earlier took manual hours and graphic editors for creating surgical previews.
-  This work bridges AI and aesthetic surgery — providing clinicians a non-invasive visualization tool for decision support.
+  This work bridges AI and aesthetic surgery — providing clinicians a non-invasive visualization tool for decision support. (https://github.com/dniketh/Nose-Vision-AI)
+  
 
 - 📈 **Crypto Price Forecasting**  
   Developed a **LightGBM-based regression model** to predict next-day ETH/USD high prices.
