@@ -10,7 +10,7 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
 
 - 🧠 **AI & Data Science:** Machine Learning , Deep Learning (Image to Image Translation)
 - 🧩 **Data Engineering:** Designed and orchestrated scalable data pipelines using **Databricks (PySpark)**, **Airflow**, **dbt**, **PostgreSQL**, and **Snowflake**. Passionate about **distributed computing frameworks** and building robust, production-grade data systems.  
-- ☁️ **Cloud & MLOps:** AWS (Bedrock, Lambda, OpenSearch), Microsoft Azure, Docker, Kubernetes
+- ☁️ **Cloud & MLOps:** AWS (Bedrock, Lambda, OpenSearch), Docker
 
 
 
