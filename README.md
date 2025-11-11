@@ -27,9 +27,9 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
   Built and deployed an end-to-end **FastAPI service** for real-time predictions, integrating dashboards for interpretability and business impact analysis.
   Check it out Here - > https://crypto-frontend.streamlit.app/
 
-- ⚡ **Customer Renewal Strategy Optimization**  
+- ⚡ **Customer Renewal Strategy Optimization**
   Designed a **data-driven segmentation and modeling pipeline** for an energy retailer to identify optimal renewal strategies.  
-  Trained and tuned an **XGBoost Classifier** achieving measurable uplift in retention and profitability
+  Trained and tuned an **XGBoost Classifier** achieving measurable uplift in retention and profitability (https://github.com/dniketh/RenewalStrategy-Dashboard)
 
 ## Highlights
 -  *Rising Star Award* at Oracle for exceptional delivery and problem-solving  
