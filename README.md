@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm Niketh Damodaran
+# Hey, whats up!
 
-**Data Scientist | AI/ML Engineering Enthusiast**
+**Data Science | AI/ML Engineering**
 
-I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate about building scalable AI and data-driven systems that make real-world impact. I bring **3+ years of experience** in software consulting and technology delivery at **Oracle** and **Triber Tech**, where I worked across enterprise banking systems and LLM-based AI solutions.
+I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate about building scalable AI and data-driven systems that make real-world impact. I bring **3+ years of experience** in software consulting and technology delivery at **Oracle** and **Triber Tech** (a B2B Startup), where I worked across enterprise banking systems and LLM-based AI solutions.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
 
 -  **AI & Data Science:** Machine Learning , Deep Learning (Image to Image Translation)
 -  **Data Engineering:** Designed and orchestrated scalable data pipelines using **Databricks (PySpark)**, **Airflow**, **dbt**, **PostgreSQL**, and **Snowflake**. Passionate about **distributed computing frameworks** and building robust, production-grade data systems.  
-- ☁️ **Cloud & MLOps:** AWS (Bedrock, Lambda, OpenSearch), Docker
+-  **Cloud & MLOps:** AWS (Bedrock, Lambda, OpenSearch), Docker
 
 
 
@@ -38,8 +38,7 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
 -  Strong consulting background with experience bridging AI, Software and business value  
 
 
-## 📫 Let's Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/niketh-damodaran)  
-- 💻 [GitHub](https://github.com/dniketh)
+##  Let's Connect
+- [LinkedIn](https://linkedin.com/in/niketh-damodaran) 
 
 
