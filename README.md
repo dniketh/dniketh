@@ -14,7 +14,7 @@ I'm a postgraduate at the **University of Technology Sydney (MDSI)** passionate 
 
 
 
-## 💡 Recent Work
+## Recent Work
 
 -  **AI for Medical Imaging – Rhinoplasty Outcome Prediction**  
   Led development of a **GAN-based AI pipeline** capable of simulating post-rhinoplasty outcomes from pre-operative images.  
